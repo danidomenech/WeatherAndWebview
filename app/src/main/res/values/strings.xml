@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RindusTest</string>
+    <string name="tab_text_1">Weather</string>
+    <string name="tab_text_2">C&amp;A</string>
+
+    <string name="current_temperature">%s°C</string>
+    <string name="current_min_temperature">%s°C temp min</string>
+    <string name="current_max_temperature">%s°C temp max</string>
+    <string name="current_weather_description">Feels like %s°C. %s</string>
+    <string name="current_weather_wind">Wind: %sm/s</string>
+    <string name="current_weather_humidity">Humidity: %s%%</string>
+    <string name="current_weather_visibility">Visibility: %skm</string>
+    <string name="current_weather_pressure">Pressure: %shPa</string>
+    <string name="current_weather_cloudiness">Cloudiness: %s%%</string>
+    <string name="forecast_title">%s-day forecast</string>
+
+    <string name="forecast_max_min_temperature">%s / %s°C</string>
+
+    <string name="close_application_title">Warning</string>
+    <string name="close_application_message">Are you sure you want to close the application?</string>
+    <string name="close_yes">Close</string>
+    <string name="close_no">Cancel</string>
+
+    <string name="error_dialog_title">Error</string>
+    <string name="button_retry">Retry</string>
+</resources>
