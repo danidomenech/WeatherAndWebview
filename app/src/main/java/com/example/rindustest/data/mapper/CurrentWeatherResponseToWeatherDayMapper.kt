@@ -10,7 +10,7 @@ import javax.inject.Inject
 import javax.inject.Singleton
 
 @Singleton
-class CurrentWeatherResponseToWeatherDayMapper @Inject constructor(private val mapper: WeatherDayResponseModelToWeatherDayMapper) : AbstractMapper<CurrentWeatherResponseModel, WeatherDay>() {
+class CurrentWeatherResponseToWeatherDayMapper @Inject constructor() : AbstractMapper<CurrentWeatherResponseModel, WeatherDay>() {
 
     override fun mapFromOtherModel(otherModel: CurrentWeatherResponseModel) =
         with(otherModel) {

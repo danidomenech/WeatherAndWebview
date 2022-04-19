@@ -1,6 +1,5 @@
 package com.example.rindustest.ui.extensions
 
-import android.app.Activity
 import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.FragmentActivity
 import com.example.rindustest.R
