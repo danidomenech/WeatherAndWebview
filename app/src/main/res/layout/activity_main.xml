@@ -28,7 +28,7 @@
             android:background="?attr/colorPrimary" />
     </com.google.android.material.appbar.AppBarLayout>
 
-    <com.example.rindustest.common.components.CustomViewPager
+    <com.example.weathertest.common.components.CustomViewPager
         android:id="@+id/view_pager"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
