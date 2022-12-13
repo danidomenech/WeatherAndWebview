@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RindusTest</string>
+    <string name="app_name">WeatherTest</string>
     <string name="tab_text_1">Weather</string>
     <string name="tab_text_2">C&amp;A</string>
 
